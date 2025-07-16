@@ -4,9 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge)
 ![Progress](https://img.shields.io/badge/Progress-Ongoing-brightgreen?style=for-the-badge)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=435&height=80&lines=💡+Learning+Java+With+RGB+Vibes!;🔥+Practice+Makes+Perfect!;🚀+Stay+Curious!" alt="Typing SVG" />
-</p>
+---
 
 
 ## ✨ About
